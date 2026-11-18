@@ -1,0 +1,4 @@
+openpyxl>=3.0
+matplotlib>=3.7
+shapely>=2.0
+numpy<2

@@ -1,0 +1,11 @@
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.venv/
+
+# Generated reports and layout images
+*_check/
+check_report.json
+check_report.xlsx
+layout_scheme_*.png
+check_report_scheme_*.png
